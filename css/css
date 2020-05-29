@@ -1,0 +1,30 @@
+.titulo {
+    font-family: fantasy; /*Font-family: cambiar tipo de letra*/
+    font-size: 40px; /*Font-size: cambiar tamaño de letra*/
+    text-align: center; /*text-align: alinear el texto (derecha,izquierda,centrado...)*/
+    color: brown; /*color: para cambiar el color de la letra*/
+}
+
+.nav-item {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    display: inline;
+    padding: 15px;
+}
+
+.nav-contenedor {
+    text-align: center;
+}
+
+.titulo-dos {
+    font-size: 18px;
+    font-family: fantasy;
+    text-align: center;
+    color: rgb(236, 77, 77);
+}
+
+.parrafo-uno {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: center;
+}
